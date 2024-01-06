@@ -8,3 +8,4 @@ Utilizes a clean and responsive layout with a central container for content.
 <li>Dynamic Data Display: Uses JavaScript to dynamically display information about UK bank holidays, including titles, dates, notes, types, and bunting.
 Styling: Applies a simple yet visually appealing style using both custom CSS and, optionally, Bootstrap styles.</li>
 </ol>
+Preview:
